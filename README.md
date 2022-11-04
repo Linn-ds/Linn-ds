@@ -2,7 +2,7 @@
 
 
 <div>
-    <a href="https://www.linkedin.com/in/lha-0a9a161a2">
+    <a href="https://www.linkedin.com/in/linnhtetaung12/">
         <img align="left" alt="LinnHtetAung's Linkdein" width="22px" col src="https://image.flaticon.com/icons/png/512/174/174857.png" />
         Linn Htet Aung
   </a>
