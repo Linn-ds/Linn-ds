@@ -12,7 +12,7 @@
   
 <div>
     <a href="https://github.com/Linn-ds">
-      <img align="left" alt="LinnHtetAung's Github" width="22px" src="https://cdn-icons-png.flaticon.com/512/733/733609.png" />
+      <img align="left" alt="LinnHtetAung's Github" width="22px" src="https://cdn-icons-png.flaticon.com/512/1051/1051326.png" />
       Linn-ds
     </a>
 </div>
@@ -21,7 +21,7 @@
   
 <div>
     <a href="https://www.facebook.com/linnhtetaung.mm/">
-      <img align="left" alt="LinnHtetAung's Facebook" width="22px" src="https://image.flaticon.com/icons/png/512/174/174848.png" />
+      <img align="left" alt="LinnHtetAung's Facebook" width="22px" src="https://cdn-icons-png.flaticon.com/512/5968/5968764.png" />
       Linn Htet Aung
     </a>
 </div>
