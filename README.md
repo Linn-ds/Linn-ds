@@ -12,7 +12,7 @@
   
 <div>
     <a href="https://github.com/Linn-ds">
-      <img align="left" alt="LinnHtetAung's Github" width="22px" src="https://cdn-icons-png.flaticon.com/512/1051/1051326.png" />
+      <img align="left" alt="LinnHtetAung's Github" width="22px" src="https://cdn-icons-png.flaticon.com/512/536/536452.png" />
       Linn-ds
     </a>
 </div>
